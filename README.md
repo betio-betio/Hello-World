@@ -21,3 +21,6 @@ betio
 betio_3:  
 - [ ] betio
 - [x] betio
+
+beito_4:  
+|be||ti||o|
