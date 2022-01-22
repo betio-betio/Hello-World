@@ -3,5 +3,5 @@
 ## beito
 
 beito:
-*betio
-*betio
+* betio
+* betio
