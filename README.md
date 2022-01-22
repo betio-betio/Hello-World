@@ -25,4 +25,4 @@ betio_3:
 beito_4:  
 | be || ti || o |
 |---||---||---|
-| be || ti || o |
+|be || ti ||o |
