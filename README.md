@@ -19,5 +19,5 @@ betio
 ---
 
 betio_3:  
--[] betio
--[x] betio
+- [] betio
+- [x] betio
